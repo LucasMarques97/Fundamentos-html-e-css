@@ -1,0 +1,58 @@
+.menu li{
+    display: inline;
+    padding: 20px;
+}
+.menu a{
+text-decoration: none;
+color: black;
+align-items: center;
+}
+.menu{
+    text-align:center;
+}
+
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.video{
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    background-color: darkcyan;
+}
+.centra{
+    text-align: center;
+}
+
+.icon {
+    height: 50px;
+    width: auto;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.tm-img {
+    width: auto;
+    height: 100px;
+}
+
+.botao {
+    width: fit-content;
+    height: fit-content;
+}
+
+.local{
+    background-color: darkcyan;
+    text-align: center;
+    border-radius: 10% 10%;
+}
